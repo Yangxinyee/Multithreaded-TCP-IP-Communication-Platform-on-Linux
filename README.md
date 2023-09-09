@@ -53,7 +53,7 @@ Matplotlib==3.4.3
 
 ## Demonstrate
 
-<div align=center><img src="https://img-blog.csdnimg.cn/836b0c689f3744eb812e95995297056e.png" width="50%"></div>
+<img src="https://img-blog.csdnimg.cn/836b0c689f3744eb812e95995297056e.png" width="50%">
 
 ***地址 address：127.0.0.1:8888***
 
@@ -63,31 +63,31 @@ Matplotlib==3.4.3
 
 ***登录Login      注册registration***
 
-<div align=center><img src="https://img-blog.csdnimg.cn/3be544b51cd54d6e9135caa6b725c301.png" width="50%"></div>
+<img src="https://img-blog.csdnimg.cn/3be544b51cd54d6e9135caa6b725c301.png" width="50%">
 
 ***Registration interface***
 
-<div align=center><img src="https://img-blog.csdnimg.cn/01f85a697eef4e6abbf673b47d001240.png" width="50%"></div>
+<img src="https://img-blog.csdnimg.cn/01f85a697eef4e6abbf673b47d001240.png" width="50%">
 
 ***Admin window.***
 
-<div align=center><img src="https://img-blog.csdnimg.cn/8d1c6108ca2d4df4a56bd3c0c9030a1f.png" width="50%"></div>
+<img src="https://img-blog.csdnimg.cn/8d1c6108ca2d4df4a56bd3c0c9030a1f.png" width="50%">
 
-***Gag operation interface and gag success prompt.***
+***operation of Banning to post interface and banning success prompt.***
 
-<div align=center><img src="https://img-blog.csdnimg.cn/891b688bbbee47668189b7f1c7bdba68.png" width="50%"></div>
+<img src="https://img-blog.csdnimg.cn/891b688bbbee47668189b7f1c7bdba68.png" width="50%">
 
-<div align=center><img src="https://img-blog.csdnimg.cn/2e44d5ecfc394284a23b679292dd4a4e.png" width="50%"></div>
+<img src="https://img-blog.csdnimg.cn/2e44d5ecfc394284a23b679292dd4a4e.png" width="50%">
 
 ***Welcome to the chat room!***  ***Sending emoji!***
 
-<div align=center><img src="https://img-blog.csdnimg.cn/9380716a7e5a4e4ea3103ff2875abded.png" width="50%"></div>
+<img src="https://img-blog.csdnimg.cn/9380716a7e5a4e4ea3103ff2875abded.png" width="50%">
 
-<div align=center><img src="https://img-blog.csdnimg.cn/13f1c9ea7006457e9451f107c1f524bb.png" width="50%"></div>
+<img src="https://img-blog.csdnimg.cn/13f1c9ea7006457e9451f107c1f524bb.png" width="50%">
 
 ***You can see the number of online users on the right.***
 
-<div align=center><img src="https://img-blog.csdnimg.cn/9868daa0af274af59f0cecd98ce15d1a.png" width="50%"></div>
+<img src="https://img-blog.csdnimg.cn/9868daa0af274af59f0cecd98ce15d1a.png" width="50%">
 
 ***【群发消息】：Group chat message  【私聊消息】：Private message***
 
