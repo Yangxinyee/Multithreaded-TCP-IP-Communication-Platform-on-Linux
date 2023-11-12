@@ -1,4 +1,4 @@
-# LANChatSoftwareBasedOnLinuxSystem
+# Development of a Multithreaded TCP/IP Communication Platform on Linux
 
 ## Content Overview
 
